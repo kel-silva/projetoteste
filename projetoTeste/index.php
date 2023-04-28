@@ -9,8 +9,8 @@ Click nbfs://nbhost/SystemFileSystem/Templates/Project/PHP/PHPProject.php to edi
         <title></title>
     </head>
     <body>
-        <?php'''''''''
-        echo  'TESTE';
+        <?php
+        echo  "TESTE 2 finalizado";
         ?>
     </body>
 </html>
